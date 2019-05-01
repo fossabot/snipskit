@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkoenvervloesem%2Fsnipskit.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkoenvervloesem%2Fsnipskit?ref=badge_shield)
+
 ########
 SnipsKit
 ########
@@ -123,3 +125,6 @@ This library is provided by `Koen Vervloesem`_ as open source software. See LICE
 .. _`Koen Vervloesem`: mailto:koen@vervloesem.eu
 
 .. _LICENSE: LICENSE
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkoenvervloesem%2Fsnipskit.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkoenvervloesem%2Fsnipskit?ref=badge_large)
